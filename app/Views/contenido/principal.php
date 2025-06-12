@@ -16,7 +16,6 @@
             </div>
         </div>
 
-    </div>
     
     <!-- ULTIMOS PRODUCTOS AGREGADOS -->
     <!-- Aca deberiamos recibir productos desde la base de datos 
@@ -83,7 +82,6 @@
             </div>
         </ul>
 
-        <a href="servicios" class="btn btn-primary">Saber mas</a>
 
     </div>
 

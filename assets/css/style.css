@@ -1,19 +1,19 @@
 :root{
     --color-primario: #2082D3;
-    --color-secundario: #CDD320;
+    --color-secundario: #dfdfd2;
     --color-btn: #598CBA;
 }
-
 
 *{
     font-family: "Playfair Display", serif;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 body{
     display: grid;
     min-height: 100dvh;
     grid-template-rows: auto 1fr auto;
-
+    background-color: #000000;
 }
-   
